@@ -9,13 +9,14 @@ body {
     padding: 0px;
 }
 
-.nav-bar {
+nav {
     background-color: #585858;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 80px;
     position: sticky;
+    top: 0px;
 }
 
 .menu-bar {
